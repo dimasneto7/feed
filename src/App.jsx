@@ -17,6 +17,10 @@ export default function App() {
             author="Dimas Ferreira"
             content="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum, eos? Quis consequatur est dolore incidunt ipsum, non itaque impedit vel. Beatae sunt quasi suscipit necessitatibus? Dignissimos vero quidem nemo. Eligendi."
           />
+          <Post
+            author="Dimas Ferreira"
+            content="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum, eos? Quis consequatur est dolore incidunt ipsum, non itaque impedit vel. Beatae sunt quasi suscipit necessitatibus? Dignissimos vero quidem nemo. Eligendi."
+          />
         </main>
       </div>
     </div>
